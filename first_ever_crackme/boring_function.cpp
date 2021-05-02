@@ -1,3 +1,10 @@
+/*
+    Author: Joshua Bailey
+    This code attempts to replicate the crackme: https://www.crackmes.one/crackme/6074618733c5d44899821e35
+    g++ boring_function -o boringFunc
+    It also prints out the correct string the binary expects.
+*/
+
 #include <iostream>
 #include <string>
 
